@@ -1,6 +1,13 @@
 package practice.gitsamplereturns;
 
+/**
+ * 車に関する情報を表すドメイン
+ * 
+ * @author yu.terauchi
+ *
+ */
 public class Car {
+	/**スピード*/
 	private Integer speed;
 
 	public Car() {}
